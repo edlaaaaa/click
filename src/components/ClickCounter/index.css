@@ -1,0 +1,27 @@
+.container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.head {
+  color: #2d3a35;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.para {
+  color: #2d3a35;
+}
+.click-btn {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 4px;
+}
+.count-value {
+  color: #c20a72;
+  font-weight: 900px;
+}
